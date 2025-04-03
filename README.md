@@ -32,7 +32,14 @@ Deployment: Vercel
 
 📸 Screenshots
 
-(You can add screenshots here if you provide them)
+![image](https://github.com/user-attachments/assets/2e35e451-2a45-4521-a868-4b7607c12c32)
+![image](https://github.com/user-attachments/assets/28c1bee0-68f1-47f6-b714-41b2eaa44c5c)
+![image](https://github.com/user-attachments/assets/900d55d0-494e-45dc-957c-96f68adc3e01)
+![image](https://github.com/user-attachments/assets/95b64fc8-b518-48de-831a-a6a673be8435)
+
+
+
+
 
 ⚡ Installation & Setup
 
