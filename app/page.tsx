@@ -34,9 +34,7 @@ export default function Home() {
           </span>. All rights reserved.
         </p>
         <div className="flex justify-center space-x-4 mt-2">
-          <Link href="https://github.com/your-profile" target="_blank">
-            <FaGithub className="w-5 h-5 text-slate-600 dark:text-slate-400 hover:text-black dark:hover:text-white transition-all duration-300" />
-          </Link>
+         
           <Link href="https://twitter.com/your-profile" target="_blank">
             <FaTwitter className="w-5 h-5 text-slate-600 dark:text-slate-400 hover:text-blue-500 transition-all duration-300" />
           </Link>
