@@ -33,19 +33,7 @@ export default function Home() {
             Vansh Gupta
           </span>. All rights reserved.
         </p>
-        <div className="flex justify-center space-x-4 mt-2">
-         
-          <Link href="https://x.com/Vanshreads target="_blank">
-            <FaTwitter className="w-5 h-5 text-slate-600 dark:text-slate-400 hover:text-blue-500 transition-all duration-300" />
-          </Link>
-          <Link href="https://www.instagram.com/vansh_reads/" target="_blank">
-            <FaInstagram className="w-5 h-5 text-slate-600 dark:text-slate-400 hover:text-pink-500 transition-all duration-300" />
-          </Link>
-          <Link href="https://www.linkedin.com/in/vansh-gupta-598801204" target="_blank">
-            <FaLinkedin className="w-5 h-5 text-slate-600 dark:text-slate-400 hover:text-blue-700 transition-all duration-300" />
-          </Link>
-      
-        </div>
+     
       </footer>
     </div>
   )
