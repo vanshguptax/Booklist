@@ -44,6 +44,7 @@ export default function Home() {
           <Link href="https://www.linkedin.com/in/vansh-gupta-598801204" target="_blank">
             <FaLinkedin className="w-5 h-5 text-slate-600 dark:text-slate-400 hover:text-blue-700 transition-all duration-300" />
           </Link>
+      
         </div>
       </footer>
     </div>
